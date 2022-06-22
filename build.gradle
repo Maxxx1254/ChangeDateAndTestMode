@@ -16,9 +16,11 @@ repositories {
 
 dependencies {
     testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.8.2'
-    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.8.2'
-    testImplementation 'com.codeborne:selenide:6.6.3'
+    testRuntimeOnly group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.8.2'
+    implementation 'com.codeborne:selenide:6.6.3'
     implementation group: 'com.github.javafaker', name: 'javafaker', version: '1.0.2'
+    testImplementation 'io.rest-assured:rest-assured:5.1.1'
+    testImplementation 'com.google.code.gson:gson:2.9.0'
 }
 
 test {
