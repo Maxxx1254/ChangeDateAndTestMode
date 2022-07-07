@@ -8,10 +8,9 @@ public class UserGenerator {
 
     public static UserData generateUser(int shiftDay) {
         String city = generateCity();
-        String data = generateData(shiftDay);
         String name = generateName();
         String phone = generatePhone();
-        UserData user = new UserData(city, data, name, phone);
+        UserData user = new UserData(city, name, phone);
         return user;
     }
 
