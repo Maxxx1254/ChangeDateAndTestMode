@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afa01c2a-6b0d-44ab-8060-1d2c687caec4" name="Changes" comment="add test and data files">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ChangeDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChangeDataTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UserGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/u_m188r/IdeaProjects/CallbackDebitCardTest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/orenb/IdeaProjects/ChangeDateAndTestMode&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
 }</component>
@@ -67,7 +68,7 @@
       <recent name="C:\Users\u_m188r\IdeaProjects\ChangeDateAndTestMode\artifacts" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ChangeDataTest.shouldSubmitRequest (1)">
+  <component name="RunManager" selected="Gradle.ChangeDataTest">
     <configuration name="ChangeDataTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -185,8 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ChangeDataTest.shouldSubmitRequest (1)" />
         <item itemvalue="Gradle.ChangeDataTest" />
+        <item itemvalue="Gradle.ChangeDataTest.shouldSubmitRequest (1)" />
         <item itemvalue="Gradle.TestMode" />
         <item itemvalue="Gradle.TestMode.TestUserActive" />
         <item itemvalue="Gradle.TestMode.TestUserBlocked" />
@@ -243,8 +244,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add test and data files" />
     <MESSAGE value="поправил методы поиска Хпаз" />
-    <option name="LAST_COMMIT_MESSAGE" value="поправил методы поиска Хпаз" />
+    <MESSAGE value="add test and data files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test and data files" />
   </component>
 </project>
